@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>UserInterface</OriginalElement>
+  <nodes>
+    <node x="36.849999999999994" y="761.0">UserInterface.ControllerPolinom</node>
+    <node x="0.0" y="149.0">UserInterface.ViewPolinom</node>
+    <node x="68.975" y="0.0">UserInterface.ModelPolinom</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="UserInterface.ControllerPolinom" target="UserInterface.ModelPolinom">
+      <point x="116.625" y="-49.5" />
+      <point x="308.975" y="736.0" />
+      <point x="261.5" y="736.0" />
+      <point x="261.5" y="124.0" />
+      <point x="278.975" y="124.0" />
+      <point x="90.00000000000003" y="49.5" />
+    </edge>
+    <edge source="UserInterface.ControllerPolinom" target="UserInterface.ViewPolinom">
+      <point x="-116.625" y="-49.5" />
+      <point x="75.725" y="736.0" />
+      <point x="60.0" y="736.0" />
+      <point x="-60.0" y="281.0" />
+    </edge>
+    <edge source="UserInterface.ViewPolinom" target="UserInterface.ModelPolinom">
+      <point x="-60.0" y="-281.0" />
+      <point x="60.0" y="124.0" />
+      <point x="98.975" y="124.0" />
+      <point x="-90.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5272727272727272" x="174.0" y="430.00000000000006" />
+  <SelectedNodes>
+    <node>UserInterface.ControllerPolinom</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
